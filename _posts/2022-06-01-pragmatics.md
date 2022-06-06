@@ -1,10 +1,6 @@
 ---
 layout: post
-title: Thoughts on Software Documentation
-subtitle: Say less
-cover-img: /assets/img/relevance_theory.jpg
-thumbnail-img: /assets/img/phonetics.png
-share-img: /assets/img/phonetics.png
+title: Good technical writing
 tags: [documentation, technical writing]
 ---
 
