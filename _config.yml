@@ -17,8 +17,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "README.md"}
-  - {url: "https://github.com/Achndrs4/achndrs4.github.io/files/8849190/Ani_C.pdf"}
-  
+  - {file: "CV.md"}  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:ani.chandrashekhar@gmail.com"}
   - {title: Linkedin, icon: github, url: "https://www.linkedin.com/in/anirudh-chandrashekhar/"}
