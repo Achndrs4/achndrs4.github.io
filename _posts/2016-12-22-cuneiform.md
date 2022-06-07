@@ -291,7 +291,7 @@ admiration, as well as the malleability, Cuneiform held in the region.
 
 
 Works Cited:
-[^1]: E. Rieken et al. (Ed.), hethiter.net /: CTH 341.III.1 (INTR 2009-08-12)
+~ E. Rieken et al. (Ed.), hethiter.net /: CTH 341.III.1 (INTR 2009-08-12)
 KBo 6.1 "Gilgamesh: First panel of the Hittite version"
 Hethitisches Zeichenlexikon(unfortunately, this site was down when I tried to access it)
 Pearce, Kristin M. (2010) "The Adaption of Akkadian into Cuneiform," Colonial Academic Alliance Undergraduate Research
@@ -309,4 +309,4 @@ Israel (http://www.tau.ac.il/humanities/semitic/EA115-162.html)
 ANA LUGAL(-i) as "for the king" in Hittite Cuneiform is from page 29 of Theo van den Hout’s _The Elements of Hittite_.
 For “hassus" as the Hittite reading of LUGAL, see the lemma "hassu-" on pages 240-241 of Jaan Puhvel’s _Hittite
 Etymological Dictionary: Vol 3_.
-Forms for Akkadian "mu-ul" and "ka-ka-bu" are given in H. Hunger’s _Astrological Reports to Assyrian Kings_ (1992)
+Forms for Akkadian "mu-ul" and "ka-ka-bu" are given in H. Hunger’s _Astrological Reports to Assyrian Kings_ (1992)~
