@@ -51,8 +51,8 @@ language, rather than ideas. Cuneiform built words with these two kinds of
 characters- ideograms that evolved from related pictograms, and proper
 phonetic symbols that came to represent the sound(or part of the sound) that the
 pictogram represented. Thus, the word for “star” in Sumerian could either be
-represented as: 𒀯, the ideogram, or phonetically as the symbols MU and UL, to
-form the word MUL, 𒈬+𒌌which is how the Sumerians would have
+represented as: 𒀯, the ideogram, or phonetically as the symbols **MU** and **UL**, to
+form the word **MUL**, 𒈬+𒌌, which is how the Sumerians would have
 phonetically pronounced this word.
 
 
@@ -84,7 +84,7 @@ discussed later as a possible vowel).
 Excluding the Sumerian ideograms, the orthography of this syllabary was
 very consistent, and obviously worked with the Sumerian phonetic
 system(because they themselves made the written language). The syllables
-followed the V or CV or VC form(MU+UL). There was no difference in Cuneiform
+followed the V or CV or VC form(**MU**+**UL**). There was no difference in Cuneiform
 between voiced and unvoiced stops(b and p use the same symbol, for example).
 Sumerian is an agglutinative language, created by stringing morphemes
 with separable prefixes or suffixes (several of these could be chained onto the
@@ -117,7 +117,7 @@ conclusions about Sumerian is superfluous and based on too much conjecture,
 that’s because it is; most of what we know about Sumerian in and of itself is not
 enough to draw any conclusions about the way it was spoken or written.
 The way we know anything about Sumerian at all- what the syllables map
-to phonetically, the sounds likely common in the language, the ’’illegal”
+to phonetically, the sounds likely common in the language, the "illegal"
 sequences of the language- is because of another language that came to
 dominate the region. 
 
@@ -255,18 +255,17 @@ Hittite is fascinating because of the way it take Sumerian and Akkadian
 words and grammar and applies it to a totally different language family. For
 example, Akkadian liked to use small separable prepositions(in, under, for) and
 actually had more (positional) prepositions than any of its Semitic descendants.
-The word LUGAL in Sumerian meant “king”, and this word was borrowed,
-phonetically and lexically, into Akkadian. So the phrase “ANA LUGAL” meant “For
+The word **LUGAL** in Sumerian meant “king”, and this word was borrowed,
+phonetically and lexically, into Akkadian. So the phrase “**ANA** **LUGAL**” meant “For
 the King”. Strange things happened when this phrase was eventually used in
 Hittite. Hittite, as previously stated, is full of case endings: -s, -e, -n, -as, -i, -az, -
 anza, -a, and -it. These case endings were very important semantically. The word
 for King in Hittite is hassu and attached to the end of this word is the dative case
 used to indicate for. While the phrase may have been pronounced hassu-i,, it was
-spelled first with the Akkadian preposition ANA, followed by the Sumerian
-ideogram LUGAL, followed by the -i in phonetic cuneiform. “ANA LUGAL” and
-“HASSU-I” could hardly be more different, and represent the vast differences
-between the three language families, the language isolate original Sumerian, the
-typically Semitic Akkadian, and the Indo-European Hittite. In some ways the
+spelled first with the Akkadian preposition **ANA**, followed by the Sumerian
+ideogram LUGAL, followed by the -i in phonetic cuneiform. **ANA** **LUGAL** and
+**HASSU-I** could hardly be more phonetically different, and represent the vast differences
+between the three language familie In some ways the
 respect and care these cultures took to preserve the “correct” form of spelling for
 languages that died out hundreds, and in the case of Sumerian, thousands of
 years prior, represents a cultural exchange of languages, ideas, and convention
@@ -292,7 +291,7 @@ admiration, as well as the malleability, Cuneiform held in the region.
 
 
 Works Cited:
-E. Rieken et al. (Ed.), hethiter.net /: CTH 341.III.1 (INTR 2009-08-12)
+[^1]: E. Rieken et al. (Ed.), hethiter.net /: CTH 341.III.1 (INTR 2009-08-12)
 KBo 6.1 "Gilgamesh: First panel of the Hittite version"
 Hethitisches Zeichenlexikon(unfortunately, this site was down when I tried to access it)
 Pearce, Kristin M. (2010) "The Adaption of Akkadian into Cuneiform," Colonial Academic Alliance Undergraduate Research
