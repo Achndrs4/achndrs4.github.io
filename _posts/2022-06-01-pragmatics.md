@@ -4,7 +4,7 @@ title: Good technical writing
 tags: [documentation, technical writing]
 ---
 
-A good guide for inexperienced users must conform to basic pragmatic rules. Pragmatics is a subfield of linguistics that evaluates how human language is utilized in social interactions.[^1]One prevalent theory in pragmatics is Relevance Theory. 
+A good guide for inexperienced users must conform to basic pragmatic rules. Pragmatics is a subfield of linguistics that evaluates how human language is utilized in social interactions.[^1]One prevalent theory in pragmatics is _Relevance Theory_. 
 
 
 ### Relevance Theory [^2]:
