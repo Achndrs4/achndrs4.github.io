@@ -43,7 +43,7 @@ represented(ideographs). The evolution of the Cuneiform script from the seal and
 record symbols to the Cuneiform as we know it today was a process that
 happened relatively quickly(over a period of 500 years from 3500BC to 3100BC) . 
 This transformation can be seen below: (Evolution of Sumerian “SAG” HEAD) 
-![image info](./assets/post_assets/head.png)
+![image info](./post_assets/head.png)
 
 
 
