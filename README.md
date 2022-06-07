@@ -4,7 +4,7 @@ permalink: "/about-me/"
 layout: page
 ---
 
-## To my future coworkers, friends, and managers `
+## To my future coworkers, friends, and managers:
 My name is Ani and I am a Data Engineer and Computational Linguist. I think I’d be a great addition to your team!
 
 I  have extensive experience - both within the world of NLP and in Data Engineering - of deploying scalable solutions to large datasets. I have worked with streaming technologies like Flink and Kafka, and have focused my experience on writing production code in GoLang, Java, and Scala to process millions of user and automation events without the risk of data loss or poor scalability. To deploy these applications, I have built pipelines in GCP, Jenkins, Docker, Airflow, and Kubernetes.
