@@ -42,9 +42,8 @@ These pictographs eventually transformed into the idea that these pictures
 represented(ideographs). The evolution of the Cuneiform script from the seal and
 record symbols to the Cuneiform as we know it today was a process that
 happened relatively quickly(over a period of 500 years from 3500BC to 3100BC) . 
-This transformation can be seen below: (Evolution of Sumerian “SAG” HEAD) 
+This transformation can be seen in the evolution of Sumerian “SAG” HEAD:
 ![image info](./post_assets/head.png)
-
 
 
 Sumerian, at the onset of this change from pictograms to ideograms,
@@ -154,12 +153,13 @@ the text was pronounced, while the italics below indicate how the text would hav
 been pronounced in the Sumerian script. The LUGAL represents a borrowed
 Sumerian ideograph.
 
-116:031 yu-wa- ṣi-ru-na LUGAL-ru u
-116:031 (n/a)-(n/a) zi-ru-na LUGAL ru u
-116:032 ia-aq-bi LUGAL-ru a-na a-ṣu-nu
-116:032 ia-ak-bi LUGAL-ru a-na a-zu-nu
+116:031 yu-wa- ṣi-ru-na **LUGAL**-ru u
+116:031 (n/a)-(n/a) zi-ru-na **LUGAL** ru u
+116:032 ia-aq-bi **LUGAL**-ru a-na a-ṣu-nu
+116:032 ia-ak-bi **LUGAL**-ru a-na a-zu-nu
 116:032 LÚ $a-a[ y]u-ba-lu ṭup-pí-ia
 116:032 LÚ $a-a[ y]u-ba-lu dup-pí-ia
+
 
 Analyzing these difference between the (same) Cuneiform script reveals that the
 the emphatic ṣi is realized as a zi, and the emphatic ṭu as a du.
@@ -221,7 +221,9 @@ Mesopotamia. Where Akkadian sometime failed to resolve ambiguity about
 Sumerian, Hittite became vital, as no other language family had been so
 extensively researched and documented as the Indo European languages.
 Below is the Hittite rendition of the Sumerian epic, “Gilgamesh”, 𒄑𒂆𒈦
-KBo 6.1 "Gilgamesh: First panel of the Hittite version"
+KBo 6.1 "Gilgamesh: First panel of the Hittite version":
+
+![image info](./post_assets/tablet.png)
 1. a
 2. uk? ki iš
 3. ša me e
@@ -229,9 +231,7 @@ KBo 6.1 "Gilgamesh: First panel of the Hittite version"
 5. ša an[Sumerogram]
 ša me e an da
 6. ši ka ar iš ??ah ru ga
-7. nu an [Sumerogram] aš a mu na[Sumerogram]
-ša me
-e
+7. nu an [Sumerogram] aš a mu na[Sumerogram] ša me e
 8. ka a aš ua(wa?) a pa a aš ??? za la
 [Sumerogram]
 9. ku-it[Sumerogram]
