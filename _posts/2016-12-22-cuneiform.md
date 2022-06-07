@@ -153,10 +153,10 @@ Sumerian ideograph.
 |line|transliteration|
 |116:031|yu-wa- ṣi-ru-na **LUGAL**-ru u|
 |116:031|? ? zi-ru-na **LUGAL** ru u|
-|116:032|ia-aq-bi **LUGAL**-ru a-na a-ṣu-nu |
-|116:032|ia-ak-bi **LUGAL**-ru a-na a-zu-nu |
-|116:032|LÚ $a-ayu-ba-lu ṭup-pí-ia |
-|116:032|LÚ $a-ayu-ba-lu dup-pí-ia |
+|116:032|ia-aq-bi **LUGAL**-ru a-na a-ṣu-nu|
+|116:032|ia-ak-bi **LUGAL**-ru a-na a-zu-nu|
+|116:032|LÚ $a-ayu-ba-lu ṭup-pí-ia|
+|116:032|LÚ $a-ayu-ba-lu dup-pí-ia|
 
 
 Analyzing these difference between the (same) Cuneiform script reveals that the
