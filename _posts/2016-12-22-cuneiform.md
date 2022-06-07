@@ -106,8 +106,8 @@ have been carried on after the death of Sumerian.
 
 Continuing with the question ambiguity above, there also exist many
 questions about the way Sumerian was pronounced that are up for debate. For
-example, would MU+UL do what many languages naturally do and just assimilate
-into MUL? Would MU+UL be pronounced slightly longer, or with a glottal stop,
+example, would **MU+UL** do what many languages naturally do and just assimilate
+into **MUL**? Would **MU+UL** be pronounced slightly longer, or with a glottal stop,
 as it might be pronounced in the Semitic Akkadian? As a language isolate, there’s
 really no way to compare any documented language to Sumerian and construct
 some sort of proto-language that could be used in aiding the phonologist. In
@@ -121,10 +121,7 @@ to phonetically, the sounds likely common in the language, the "illegal"
 sequences of the language- is because of another language that came to
 dominate the region. 
 
-
-It is due to this language that we have any information
-about Sumerian, or for that matter Hittite, Elamite, or old Persian, at all.
-The Akkadians, originally from parts of the Western Levant, eventually
+The Akkadians, originally from parts of the Western Levant, 
 settled north of Sumer on the banks of the Tigris and conquered the city states
 around it, eventually even defeating Sumer around 2300BC and absorbing it into
 its growing empire. Rather than ending the Sumerian language and orthography
@@ -150,12 +147,12 @@ the text was pronounced, while the italics below indicate how the text would hav
 been pronounced in the Sumerian script. The **LUGAL** represents a borrowed
 Sumerian ideograph.
 
-116:031 yu-wa- ṣi-ru-na **LUGAL**-ru u
-116:031 (n/a)-(n/a) zi-ru-na **LUGAL** ru u
-116:032 ia-aq-bi **LUGAL**-ru a-na a-ṣu-nu
-116:032 ia-ak-bi **LUGAL**-ru a-na a-zu-nu
-116:032 LÚ $a-a[ y]u-ba-lu ṭup-pí-ia
-116:032 LÚ $a-a[ y]u-ba-lu dup-pí-ia
+-116:031 yu-wa- ṣi-ru-na **LUGAL**-ru u
+-116:031 (n/a)-(n/a) zi-ru-na **LUGAL** ru u
+-116:032 ia-aq-bi **LUGAL**-ru a-na a-ṣu-nu
+-116:032 ia-ak-bi **LUGAL**-ru a-na a-zu-nu
+-116:032 LÚ $a-a[ y]u-ba-lu ṭup-pí-ia
+-116:032 LÚ $a-a[ y]u-ba-lu dup-pí-ia
 
 
 Analyzing these difference between the (same) Cuneiform script reveals that the
