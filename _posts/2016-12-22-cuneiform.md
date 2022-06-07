@@ -152,11 +152,11 @@ Sumerian ideograph.
 
 |line|transliteration|
 |116:031|yu-wa- ṣi-ru-na **LUGAL**-ru u|
-|116:031|(n/a)-(n/a) zi-ru-na **LUGAL** ru u|
+|116:031|? ? zi-ru-na **LUGAL** ru u|
 |116:032|ia-aq-bi **LUGAL**-ru a-na a-ṣu-nu |
 |116:032|ia-ak-bi **LUGAL**-ru a-na a-zu-nu |
-|116:032|LÚ $a-a[ y]u-ba-lu ṭup-pí-ia |
-|116:032|LÚ $a-a[ y]u-ba-lu dup-pí-ia |
+|116:032|LÚ $a-ayu-ba-lu ṭup-pí-ia |
+|116:032|LÚ $a-ayu-ba-lu dup-pí-ia |
 
 
 Analyzing these difference between the (same) Cuneiform script reveals that the
@@ -236,8 +236,7 @@ Below is the Hittite rendition of the Sumerian epic, “Gilgamesh”.
 6. ši ka ar iš ??ah ru ga
 7. nu an **[Sumerogram]** aš a mu na **[Sumerogram]** ša me e
 8. ka a aš ua(wa?) a pa a aš ??? za la **[Sumerogram]**
-9. ku-it **[Sumerogram]**
-ri [**Sumerogram]** pa a še ša nu-ut
+9. ku-it **[Sumerogram]** ri [**Sumerogram]** pa a še ša nu-ut
 
 Hittite is fascinating because of the way it take Sumerian and Akkadian
 words and grammar and applies it to a totally different language family. For
