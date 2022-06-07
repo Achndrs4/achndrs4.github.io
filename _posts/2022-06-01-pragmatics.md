@@ -30,9 +30,9 @@ build all documentation from there. Examples of using these principles in docume
 - Allowing hyperlinks to link to more advanced articles, but ensuring the document is **functionally complete without them**
 - Poviding an **example project or code sample** that utilizes advanced features, or at the very least a combination of the simple features a library or function provides
 - Providing links to a website containing updates including **changelogs** and **bugfixes**
+- Diagraming all complicated concepts.
 
-Finally, make sure that you have diagrams to illustrate more complicated concepts. Make sure that each diagram only represents one core concept, or they will quickly get cluttered.
-
+When you write with your audience in mind, the effort is always appreciated, and leads to better documentation practices.
 
 [^1]: Mey, J.L. (2006). "Pragmatics: Overview". Encyclopedia of Language & Linguistics. pp. 51–62
 [^2]:Wilson, Deirdre; Sperber, Dan (2002). "Relevance Theory"
