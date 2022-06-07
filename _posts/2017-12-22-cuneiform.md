@@ -3,9 +3,6 @@ layout: post
 title: Evolving Cuneiform Orthography
 tags: [historical-linguistics, phonetics, morphology]
 ---
-Cuneiform over time
-
-
 Cuneiform, the ancient orthography used by Near-Eastern civilizations
 from 3500BC to the first century in the Common Era, is significant not only
 because it represents mankind’s shift from pre-history to history- people
@@ -228,15 +225,13 @@ KBo 6.1 "Gilgamesh: First panel of the Hittite version":
 2. uk? ki iš
 3. ša me e
 4. na aš úI iš ki iz
-5. ša an[Sumerogram]
+5. ša an **[Sumerogram]**
 ša me e an da
 6. ši ka ar iš ??ah ru ga
-7. nu an [Sumerogram] aš a mu na[Sumerogram] ša me e
-8. ka a aš ua(wa?) a pa a aš ??? za la
-[Sumerogram]
-9. ku-it[Sumerogram]
-ri [Sumerogram] pa a še ša nu-ut
-
+7. nu an **[Sumerogram]** aš a mu na **[Sumerogram]** ša me e
+8. ka a aš ua(wa?) a pa a aš ??? za la **[Sumerogram]**
+9. ku-it **[Sumerogram]**
+ri [**Sumerogram]** pa a še ša nu-ut
 
 From the above(as well as documentation from Zilbenstruktur KV, VK), we
 can see that Hittite, just like Akkadian, doesn’t use some of the Sumerian g̃or the
