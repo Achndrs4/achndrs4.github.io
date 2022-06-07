@@ -41,7 +41,7 @@ record symbols to the Cuneiform as we know it today was a process that
 happened relatively quickly(over a period of 500 years from 3500BC to 3100BC) . 
 This transformation can be seen below: 
 **SAG: "HEAD" Logogram**
-![image info](./assets/post_assets/head.png)
+![image info](../assets/post_assets/head.png)
 
 
 Sumerian, at the onset of this change from pictograms to ideograms,
@@ -218,7 +218,7 @@ extensively researched and documented as the Indo European languages.
 Below is the Hittite rendition of the Sumerian epic, “Gilgamesh”.
 
 
-![image info](./assets/post_assets/tablet.png)
+![image info](../assets/post_assets/tablet.png)
 
 
 **KBo 6.1 First panel of the Hittite version:**
