@@ -221,7 +221,7 @@ Below is the Hittite rendition of the Sumerian epic, “Gilgamesh”.
 ![image info](./post_assets/tablet.png)
 
 
-**KBo 6.1 "Gilgamesh: First panel of the Hittite version:**
+**KBo 6.1 First panel of the Hittite version:**
 
 
 1. a
