@@ -6,18 +6,18 @@ tags: [documentation, technical writing]
 
 A good guide for inexperienced users must conform to basic pragmatic rules. Pragmatics is a subfield of linguistics that evaluates how human language is utilized in social interactions.[^1]One prevalent theory in pragmatics is Relevance Theory. 
 
-Relevance theory implies the following two things about the goals of human communication[^2]:
+
+### Relevance Theory [^2]:
+All language must be
 
 
-Every utterance (sentence) should be:
-
- a. relevant enough for it to be **worth the addressee's effort to process it**. (If the utterance contained too
+ > relevant enough for it to be **worth the addressee's effort to process it**. (If the utterance contained too
  few positive cognitive effects for the addressee in relation to the processing effort needed to achieve
  these effects, she wouldn't bother processing it, and the communicator needn't have taken the trouble to
  utter it.)
  
  
- b. the most relevant one compatible with the **communicator's abilities and preferences**. (Otherwise the
+ > the most relevant one compatible with the **communicator's abilities and preferences**. (Otherwise the
  communicator would have chosen a more relevant utterance – e.g. one that needs less processing effort
  and/or achieves more positive cognitive effects on part of the addressee – to convey her meaning. After
  all, she wants to be understood as easily and reliably as possible.)
