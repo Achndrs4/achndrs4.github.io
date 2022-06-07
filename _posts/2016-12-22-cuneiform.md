@@ -39,8 +39,9 @@ These pictographs eventually transformed into the idea that these pictures
 represented(ideographs). The evolution of the Cuneiform script from the seal and
 record symbols to the Cuneiform as we know it today was a process that
 happened relatively quickly(over a period of 500 years from 3500BC to 3100BC) . 
-This transformation can be seen below: 
-**SAG: "HEAD" Logogram**
+
+
+**_SAG_: "HEAD" Logogram Evolution:**
 ![image info](../assets/post_assets/head.png)
 
 
@@ -148,12 +149,13 @@ the text was pronounced, while the italics below indicate how the text would hav
 been pronounced in the Sumerian script. The **LUGAL** represents a borrowed
 Sumerian ideograph.
 
--116:031 yu-wa- ṣi-ru-na **LUGAL**-ru u
--116:031 (n/a)-(n/a) zi-ru-na **LUGAL** ru u
--116:032 ia-aq-bi **LUGAL**-ru a-na a-ṣu-nu
--116:032 ia-ak-bi **LUGAL**-ru a-na a-zu-nu
--116:032 LÚ $a-a[ y]u-ba-lu ṭup-pí-ia
--116:032 LÚ $a-a[ y]u-ba-lu dup-pí-ia
+|line|transliteration|
+|116:031|yu-wa- ṣi-ru-na **LUGAL**-ru u|
+|116:031|(n/a)-(n/a) zi-ru-na **LUGAL** ru u|
+|116:032|ia-aq-bi **LUGAL**-ru a-na a-ṣu-nu |
+|116:032|ia-ak-bi **LUGAL**-ru a-na a-zu-nu |
+|116:032|LÚ $a-a[ y]u-ba-lu ṭup-pí-ia |
+|116:032|LÚ $a-a[ y]u-ba-lu dup-pí-ia |
 
 
 Analyzing these difference between the (same) Cuneiform script reveals that the
