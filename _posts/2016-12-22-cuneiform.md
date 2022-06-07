@@ -62,11 +62,11 @@ Sumerian, also used special characters that were not pronounced at all but
 used to aid the scribe or the reader- determiners. Determiners, which are very
 common in languages that are analytic, including Chinese, are placed next to
 words in order to categorize. For example, the 𒁹 followed all male personal
-names. 𒌷 is the symbol is put before(or sometimes after) the name of a city or a
+names. 𒌷 is the symbol is put before (or sometimes after) the name of a city or a
 large settlement, which is why the great capital of the Sumerians, Uruk, was
 spelled out 𒌷𒀔, with the first symbol being unpronounced and the second
 being an ideogram of the city. The Sumerians also did this for female names,
-names of trees(and in fact, all things made out of wood), countries, people and
+names of trees (and in fact, all things made out of wood), countries, people and
 ethnicities. Though these were not pronounced in Sumerian, the other Cuneiform
 scripts would fossilize these determiners as well. Sometimes, a determiner could
 also be an ideogram, as in 𒀯, which discussed above as an ideogram, was also
@@ -75,7 +75,7 @@ the determinative placed right after the names of all stars.
 
 The Sumerian Language recognized at least the following consonants: b,
 d, g, g̃, ḫ, k, l, m, n, p, r, ř, s, š, t, z. They clearly made a distinction between
-alveolar stops(t,d are distinct), alveolar and bilabial nasals(m and n are separate), 
+alveolar stops (t,d are distinct), alveolar and bilabial nasals (m and n are separate), 
 as well as velar nasals as in g̃. In addition to the b,d,g,k,l,m,n,p,r,t,z, which are also
 part of English phonology, Sumerian has velar fricatives, ḫ or x. It also has the
 affricate /ř/ that was most likely produced as a voiceless aspirated alveolar
@@ -86,13 +86,13 @@ discussed later as a possible vowel).
 Excluding the Sumerian ideograms, the orthography of this syllabary was
 very consistent, and obviously worked with the Sumerian phonetic
 system(because they themselves made the written language). The syllables
-followed the V or CV or VC form(**MU**+**UL**). There was no difference in Cuneiform
+followed the V or CV or VC form (**MU**+**UL**). There was no difference in Cuneiform
 between voiced and unvoiced stops(b and p use the same symbol, for example).
 Sumerian is an agglutinative language, created by stringing morphemes
 with separable prefixes or suffixes (several of these could be chained onto the
 root morpheme to make the meaning more complex). In addition, most words
 were monosyllabic. With only 16 consonants and 4 vowels, there are at max 132
-different combination for monosyllabic words(CV, VC, and V combined). It should,
+different combination for monosyllabic words (CV, VC, and V combined). It should,
 then, come as no surprise that Sumerian has a vast number of homonyms, so
 many in fact that most linguists are convinced that there must have been some
 phonemic difference to separate these homonyms. For example, the language
@@ -142,7 +142,7 @@ other hand, required both a vowel and a consonant in order to write the CV and
 VC clusters. Many of its words were multisyllabic, while Sumerian was mainly
 monosyllabic. An example of an Akkadian text below shows how the scribes
 adapted this language isolate to fit their language. This text was taken from the
-Amarna letters in classical Akkadian(EA-115-116). The cuneiform text was
+Amarna letters in classical Akkadian[^1]. The cuneiform text was
 analyzed to transliterate it into Akkadian, and then show the hypothetical reading
 in Sumerian to illustrate differences in orthography. The bold letters indicate how
 the text was pronounced, while the italics below indicate how the text would have
@@ -173,7 +173,7 @@ years after the language had ceased to be functional.
 The fact that Sumerian was seen as a language of religion created a
 fascinating phenomenon in Akkadian: Sumerograms. Akkadian did not only
 borrow ideograms from Sumerian, but also the words that were spelled out
-phonetically in Sumerian(like the word for star 𒈬𒌌) and kept that way in
+phonetically in Sumerian (like the word for star 𒈬𒌌) and kept that way in
 Akkadian as a sign of respect for the Sumerian language itself . These words
 would become ideograms in the unrelated Akkadian language. So if an Akkadian
 saw the word 𒈬𒌌they would read the Sumerian “MUL” but pronounce it in
@@ -202,7 +202,7 @@ thousand years after Sumerian had given way to Akkadian.
 Hittite phonology contained key differences to both Akkadian and
 Sumerian. While Akkadian had the three-consonant clusters of vowels that were
 then used to build sentences, and Sumerian was mostly monomorphemic, Hittite
-was a less analytic and more synthetic language, which, like many other IndoEuropean languages, had many case endings and markers that were not as free
+was a less analytic and more synthetic language, which, like many other Indo-European languages, had many case endings and markers that were not as free
 as they would be in an analytic language like Sumerian. The Hittite language had
 the following sounds in its phonology: b, d, g, ḫ, k, l, m, n, p, r, š, t, z. However,
 like Sumerian, there is no difference between voiced and unvoiced stops, leading
@@ -290,3 +290,4 @@ Journal: Vol. 1, Article 2.
 
 Cooper, Jerrold S. 1996. “Sumerian and Akkadian.” In The World’s Writing Systems, ed. Peter T. Daniels and William Bright,
 37-58.
+[^1]: EA-115-116
