@@ -13,7 +13,6 @@ As important as the tools are the skill set required to wield them, and here too
 
 Finally, I am a privacy-first engineer. It is my obligation and duty, not only to you but to the customers whose data is being used, to protect that data from being extracted. I do this by focusing on buildiung **trustless** systems. In other words:
 - I will fight to reduce the amount of data collected _unless_ it has critical business/KPI value
-- If working with machine learning sets, I will make sure
-- If sensitive data needs to be used, I use tools like [k-anonimity](https://en.wikipedia.org/wiki/K-anonymity) and [ℓ-diversity](https://en.wikipedia.org/wiki/L-diversity)
+- If sensitive data needs to be used, I use tools like [k-anonimity](https://en.wikipedia.org/wiki/K-anonymity) and [ℓ-diversity](https://en.wikipedia.org/wiki/L-diversity) to make sure that collected data cannot be used in malicious ways
 
 At its core, I love the creativity and team effort required to extract meaning out of data - whether it be structured, semi-structured, or completely unstructured. Send me a message if you think I’d be a good fit for your team, or if you’re interested in discussing user privacy, the state of NLP, or anything linguistics related.
