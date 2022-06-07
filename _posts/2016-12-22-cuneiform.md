@@ -149,6 +149,7 @@ the text was pronounced, while the italics below indicate how the text would hav
 been pronounced in the Sumerian script. The **LUGAL** represents a borrowed
 Sumerian ideograph.
 
+
 |line|transliteration|
 |116:031|yu-wa- ṣi-ru-na **LUGAL**-ru u|
 |116:031|(n/a)-(n/a) zi-ru-na **LUGAL** ru u|
