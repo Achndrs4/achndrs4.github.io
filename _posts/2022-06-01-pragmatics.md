@@ -33,7 +33,13 @@ build all documentation from there. Examples of using these principles in docume
 
 Finally, make sure that you have diagrams to illustrate more complicated concepts. Make sure that each diagram only represents one core concept, or they will quickly get cluttered.
 
-|![image info](../assets/post_assets/cluster.png){:height="36px" width="36px"}| ![image info](../assets/post_assets/cluster-before.png)|
+
+
+![image info](../assets/post_assets/cluster-before.png)
+
+
+
+![image info](../assets/post_assets/cluster.png)
 
 
 [^1]: Mey, J.L. (2006). "Pragmatics: Overview". Encyclopedia of Language & Linguistics. pp. 51–62
