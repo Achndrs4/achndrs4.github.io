@@ -216,10 +216,14 @@ Mesopotamia. Where Akkadian sometime failed to resolve ambiguity about
 Sumerian, Hittite became vital, as no other language family had been so
 extensively researched and documented as the Indo European languages.
 Below is the Hittite rendition of the Sumerian epic, “Gilgamesh”.
-**KBo 6.1 "Gilgamesh: First panel of the Hittite version:**
 
 
 ![image info](./post_assets/tablet.png)
+
+
+**KBo 6.1 "Gilgamesh: First panel of the Hittite version:**
+
+
 1. a
 2. uk? ki iš
 3. ša me e
