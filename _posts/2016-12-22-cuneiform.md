@@ -39,7 +39,8 @@ These pictographs eventually transformed into the idea that these pictures
 represented(ideographs). The evolution of the Cuneiform script from the seal and
 record symbols to the Cuneiform as we know it today was a process that
 happened relatively quickly(over a period of 500 years from 3500BC to 3100BC) . 
-This transformation can be seen in the evolution of Sumerian “SAG” HEAD:
+This transformation can be seen below: 
+**SAG: "HEAD" Logogram**
 ![image info](./post_assets/head.png)
 
 
@@ -214,8 +215,10 @@ exception of the Sumerograms and the Akkadograms that had come over from
 Mesopotamia. Where Akkadian sometime failed to resolve ambiguity about
 Sumerian, Hittite became vital, as no other language family had been so
 extensively researched and documented as the Indo European languages.
-Below is the Hittite rendition of the Sumerian epic, “Gilgamesh”
-**KBo 6.1 "Gilgamesh: First panel of the Hittite version**
+Below is the Hittite rendition of the Sumerian epic, “Gilgamesh”.
+**KBo 6.1 "Gilgamesh: First panel of the Hittite version:**
+
+
 ![image info](./post_assets/tablet.png)
 1. a
 2. uk? ki iš
@@ -228,7 +231,6 @@ Below is the Hittite rendition of the Sumerian epic, “Gilgamesh”
 8. ka a aš ua(wa?) a pa a aš ??? za la **[Sumerogram]**
 9. ku-it **[Sumerogram]**
 ri [**Sumerogram]** pa a še ša nu-ut
-
 
 Hittite is fascinating because of the way it take Sumerian and Akkadian
 words and grammar and applies it to a totally different language family. For
@@ -272,20 +274,11 @@ admiration, as well as the malleability, Cuneiform held in the region.
 **Works Cited:**
 E. Rieken et al. (Ed.), hethiter.net /: CTH 341.III.1 (INTR 2009-08-12)
 KBo 6.1 "Gilgamesh: First panel of the Hittite version"
-Hethitisches Zeichenlexikon(unfortunately, this site was down when I tried to access it)
+
+
 Pearce, Kristin M. (2010) "The Adaption of Akkadian into Cuneiform," Colonial Academic Alliance Undergraduate Research
 Journal: Vol. 1, Article 2.
+
+
 Cooper, Jerrold S. 1996. “Sumerian and Akkadian.” In The World’s Writing Systems, ed. Peter T. Daniels and William Bright,
 37-58.
-Oxford: Oxford University Press.1999. “Sumerian and Semitic Writing in Most Ancient Syro-Mesopotamia” in
-Languages and Cultures in Contact, ed. K. Van Lerberghe and G. Voet, 61-77. Leuven: Peeters, 2004.
-“The Origin of the Cuneiform Writing System.” In The First Writing: Script Invention as History and Process, ed. Stephen
-Houston, 71-99. Cambridge: Cambridge University Press. 61 Ibid, 68. 62 Andrew George.
-“Babylonian and Assyrian: A History of Akkadian,” in Languages of Iraq, Ancient and Modern, ed. J. N. Postgate, 31-71.
-London: British School of Archaeology in Iraq, 2007.
-Akkadian transcriptions from the Amarna Tablets transcripton from the humanities department at Tel-Aviv University,
-Israel (http://www.tau.ac.il/humanities/semitic/EA115-162.html)
-ANA LUGAL(-i) as "for the king" in Hittite Cuneiform is from page 29 of Theo van den Hout’s _The Elements of Hittite_.
-For “hassus" as the Hittite reading of LUGAL, see the lemma "hassu-" on pages 240-241 of Jaan Puhvel’s _Hittite
-Etymological Dictionary: Vol 3_.
-Forms for Akkadian "mu-ul" and "ka-ka-bu" are given in H. Hunger’s _Astrological Reports to Assyrian Kings_ (1992)
