@@ -140,26 +140,7 @@ stops, none of which were part of Sumerian. As a Semitic language, it tended to
 form triconsonental roots, without any regard to the vowels. Sumerian, on the
 other hand, required both a vowel and a consonant in order to write the CV and
 VC clusters. Many of its words were multisyllabic, while Sumerian was mainly
-monosyllabic. An example of an Akkadian text below shows how the scribes
-adapted this language isolate to fit their language. This text was taken from the
-Amarna letters in classical Akkadian[^1]. The cuneiform text was
-analyzed to transliterate it into Akkadian, and then show the hypothetical reading
-in Sumerian to illustrate differences in orthography. The bold letters indicate how
-the text was pronounced, while the italics below indicate how the text would have
-been pronounced in the Sumerian script. The **LUGAL** represents a borrowed
-Sumerian ideograph.
-
-
-|line|transliteration|
-|116:031|yu-wa- ṣi-ru-na **LUGAL**-ru u|
-|116:031|? ? zi-ru-na **LUGAL** ru u|
-|116:032|ia-aq-bi **LUGAL**-ru a-na a-ṣu-nu|
-|116:032|ia-ak-bi **LUGAL**-ru a-na a-zu-nu|
-|116:032|LÚ $a-ayu-ba-lu ṭup-pí-ia|
-|116:032|LÚ $a-ayu-ba-lu dup-pí-ia|
-
-
-Analyzing these difference between the (same) Cuneiform script reveals that the
+monosyllabic. Analyzing these difference between the (same) Cuneiform script reveals that the
 the emphatic **ṣi** is realized as a **zi**, and the emphatic **ṭu** as a **du**.
 The Sumerian language had a huge influence on Akkadian; there is
 evidence of massive lexical, syntactical, and phonological borrowing during this
