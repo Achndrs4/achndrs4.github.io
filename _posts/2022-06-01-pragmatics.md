@@ -37,3 +37,4 @@ Here are some ways you can start to write to your readers in a way that is _rele
 
 [^1]: Mey, J.L. (2006). "Pragmatics: Overview". Encyclopedia of Language & Linguistics. pp. 51–62
 [^2]:Wilson, Deirdre; Sperber, Dan (2002). "Relevance Theory"
+---
