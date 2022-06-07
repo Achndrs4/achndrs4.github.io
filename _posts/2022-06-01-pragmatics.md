@@ -8,7 +8,7 @@ A good guide for inexperienced users must conform to basic pragmatic rules. Prag
 
 
 ### Relevance Theory [^2]:
-All language must be
+All utterances of language must be:
 
 
  > relevant enough for it to be **worth the addressee's effort to process it**. (If the utterance contained too
@@ -29,11 +29,11 @@ build all documentation from there. Examples of using these principles in docume
 - **Citing goals** and **Stating required experience levels** at the beginning of a document
 - Allowing hyperlinks to link to more advanced articles, but ensuring the document is **functionally complete without them**
 - Poviding an **example project or code sample** that utilizes advanced features, or at the very least a combination of the simple features a library or function provides
-- **Diagramming** of all complex concepts
 - Providing links to a website containing updates including **changelogs** and **bugfixes**
 
-And that's it! Stick to these principles and remember to _say less_
+Finally, make sure that you have diagrams to illustrate more complicated concepts. Make sure that each diagram only represents one core concept, or they will quickly get cluttered.
 
+![image info](../assets/post_assets/cluster.png) ![image info](../assets/post_assets/cluster-before.png)
 
 
 [^1]: Mey, J.L. (2006). "Pragmatics: Overview". Encyclopedia of Language & Linguistics. pp. 51–62
