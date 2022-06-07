@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evolving Cuneiform Orthography
+title: The Linguistics of Cuneiform
 tags: [historical-linguistics, phonetics, morphology]
 ---
 Cuneiform, the ancient orthography used by Near-Eastern civilizations
@@ -271,4 +271,3 @@ Journal: Vol. 1, Article 2.
 
 Cooper, Jerrold S. 1996. “Sumerian and Akkadian.” In The World’s Writing Systems, ed. Peter T. Daniels and William Bright,
 37-58.
-[^1]: EA-115-116
