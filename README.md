@@ -1,99 +1,19 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "For Recruiters: Who Am I?"
+permalink: "/about-me/"
 layout: page
 ---
 
-## Installation
+## To my future coworkers, friends, and managers 
+My name is Ani and I am a Data Engineer and Computational Linguist. I think I’d be a great addition to your team!
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+I  have extensive experience - both within the world of NLP and in Data Engineering - of deploying scalable solutions to large datasets. I have worked with streaming technologies like Flink and Kafka, and have focused my experience on writing production code in GoLang, Java, and Scala to process millions of user and automation events without the risk of data loss or poor scalability. To deploy these applications, I have built pipelines in GCP, Jenkins, Docker, Airflow, and Kubernetes.
 
-## Features
+As important as the tools are the skill set required to wield them, and here too I have some experience that I think could help the team. I have worked on several different classification challenges including writing tooling to facilitate OCR, machine translation, feature transformation, token extraction, etc . In addition, my education in linguistics has given me the opportunity to use some advanced mathematical tools in natural language processing (Viterbi Model Creation, CKY-Parsing, Levenshtein Distance).
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+Finally, I am a privacy-first engineer. It is my obligation and duty, not only to you but to the customers whose data is being used, to protect that data from being extracted. I do this by focusing on buildiung **trustless** systems. In other words:
+- I will fight to reduce the amount of data collected _unless_ it has critical business/KPI value
+- If working with machine learning sets, I will make sure
+- If sensitive data needs to be used, I use tools like [k-anonimity](https://en.wikipedia.org/wiki/K-anonymity) and [ℓ-diversity](https://en.wikipedia.org/wiki/L-diversity)
 
-## Based on
-
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
-
-## Installation (jekyll-remote-theme method)
-
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
-
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
-```
-
-Note: to enable icons you also need to copy over the `_data` folder.
-
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+At its core, I love the creativity and team effort required to extract meaning out of data - whether it be structured, semi-structured, or completely unstructured. Send me a message if you think I’d be a good fit for your team, or if you’re interested in discussing user privacy, the state of NLP, or anything linguistics related @ ani.chandrashekhar@gmail.com.
