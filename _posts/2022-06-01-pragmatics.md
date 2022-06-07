@@ -25,14 +25,15 @@ All utterances of language must be:
  
 These two rules are all a good communicator needs to remember when writing technical guides. You must
 evaluate the lowest level of experience for your audience, and not the average level of experience, and
-build all documentation from there. Examples of using these principles in documentation include:
+build all documentation from there. 
+
+Here are some ways you can start to write to your readers in a way that is _relevant_ to them:
 - **Citing goals** and **Stating required experience levels** at the beginning of a document
 - Allowing hyperlinks to link to more advanced articles, but ensuring the document is **functionally complete without them**
 - Poviding an **example project or code sample** that utilizes advanced features, or at the very least a combination of the simple features a library or function provides
 - Providing links to a website containing updates including **changelogs** and **bugfixes**
 - Diagraming all complicated concepts.
 
-When you write with your audience in mind, the effort is always appreciated, and leads to better documentation practices.
 
 [^1]: Mey, J.L. (2006). "Pragmatics: Overview". Encyclopedia of Language & Linguistics. pp. 51–62
 [^2]:Wilson, Deirdre; Sperber, Dan (2002). "Relevance Theory"
