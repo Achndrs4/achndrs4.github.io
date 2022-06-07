@@ -147,7 +147,7 @@ Amarna letters in classical Akkadian(EA-115-116). The cuneiform text was
 analyzed to transliterate it into Akkadian, and then show the hypothetical reading
 in Sumerian to illustrate differences in orthography. The bold letters indicate how
 the text was pronounced, while the italics below indicate how the text would have
-been pronounced in the Sumerian script. The LUGAL represents a borrowed
+been pronounced in the Sumerian script. The **LUGAL** represents a borrowed
 Sumerian ideograph.
 
 116:031 yu-wa- ṣi-ru-na **LUGAL**-ru u
@@ -217,9 +217,8 @@ exception of the Sumerograms and the Akkadograms that had come over from
 Mesopotamia. Where Akkadian sometime failed to resolve ambiguity about
 Sumerian, Hittite became vital, as no other language family had been so
 extensively researched and documented as the Indo European languages.
-Below is the Hittite rendition of the Sumerian epic, “Gilgamesh”, 𒄑𒂆𒈦
-KBo 6.1 "Gilgamesh: First panel of the Hittite version":
-
+Below is the Hittite rendition of the Sumerian epic, “Gilgamesh”
+**KBo 6.1 "Gilgamesh: First panel of the Hittite version**
 ![image info](./post_assets/tablet.png)
 1. a
 2. uk? ki iš
@@ -233,29 +232,12 @@ KBo 6.1 "Gilgamesh: First panel of the Hittite version":
 9. ku-it **[Sumerogram]**
 ri [**Sumerogram]** pa a še ša nu-ut
 
-From the above(as well as documentation from Zilbenstruktur KV, VK), we
-can see that Hittite, just like Akkadian, doesn’t use some of the Sumerian g̃or the
-ř, but is conservative in that(compared to a language like Elamite) retains most of
-the KV and VK structure commonly used in Sumerian. And although we posed
-the issue of having a KV followed by a VK in Sumerian, given what we know 
-about how Indo European Languages work(to the point where we can reconstruct
-PIE and its derivatives) we know that the MU-UL example would actually be
-assimilated, which is something that happens very naturally in language. The
-“legal” sequence of vowels and consonants seems to be much closer to that of
-English, being an Indo-European language, at least when compared to the
-previous Akkadian transliteration. Also, the symbols for the y are not to be found
-in Sumerian, and this is because Hittite eventually adds the symbols for w and
-y(𒄿 and 𒀀) so that these sounds can be represented – these symbols once
-represented the g̃and the ř in Sumerian but were not part of the phonology of
-either Sumerian, nor were they utilized in this way in Akkadian and so were
-switched.
-
 
 Hittite is fascinating because of the way it take Sumerian and Akkadian
 words and grammar and applies it to a totally different language family. For
 example, Akkadian liked to use small separable prepositions(in, under, for) and
 actually had more (positional) prepositions than any of its Semitic descendants.
-The word **LUGAL** in Sumerian meant “king”, and this word was borrowed,
+The word **LUGAL** in Sumerian meant “king", and this word was borrowed,
 phonetically and lexically, into Akkadian. So the phrase “**ANA** **LUGAL**” meant “For
 the King”. Strange things happened when this phrase was eventually used in
 Hittite. Hittite, as previously stated, is full of case endings: -s, -e, -n, -as, -i, -az, -
@@ -263,7 +245,7 @@ anza, -a, and -it. These case endings were very important semantically. The word
 for King in Hittite is hassu and attached to the end of this word is the dative case
 used to indicate for. While the phrase may have been pronounced hassu-i,, it was
 spelled first with the Akkadian preposition **ANA**, followed by the Sumerian
-ideogram LUGAL, followed by the -i in phonetic cuneiform. **ANA** **LUGAL** and
+ideogram **LUGAL**, followed by the **-I** in phonetic cuneiform. **ANA** **LUGAL** and
 **HASSU-I** could hardly be more phonetically different, and represent the vast differences
 between the three language familie In some ways the
 respect and care these cultures took to preserve the “correct” form of spelling for
