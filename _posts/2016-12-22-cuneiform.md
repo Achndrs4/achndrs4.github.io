@@ -46,8 +46,7 @@ happened relatively quickly(over a period of 500 years from 3500BC to 3100BC) .
 
 
 Sumerian, at the onset of this change from pictograms to ideograms,
-would have been impossible to read(unless serious guesswork as to what all of
-the original pictograms must have represented had taken place) had it not been
+would have been impossible to read accurately, had it not been
 for the fact that some of these pictograms came to represent sounds in a
 language, rather than ideas. Cuneiform built words with these two kinds of
 characters- ideograms that evolved from related pictograms, and proper
