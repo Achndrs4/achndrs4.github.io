@@ -131,8 +131,7 @@ Cuneiform would long outlive the people who originally made it.
 The Akkadians also had the task of using Sumerian Cuneiform to fit the
 phonetics of their own language. This was not a simple task.
 
-Akkadian, unlike Sumerian, is a Semitic language, and thus did not share a
-lot of characteristics with Sumerian at all. Akkadian was not agglutinative, it did
+Akkadian, unlike Sumerian, is a Semitic language. It is also agglutinative, and doez
 not have the velar nasal or the voiceless aspirated alveolar affricate. It did on the
 other hand have the q, ṣ, ṭ, emphatic stops, have phyringial affricates, and glottal
 stops, none of which were part of Sumerian. As a Semitic language, it tended to
